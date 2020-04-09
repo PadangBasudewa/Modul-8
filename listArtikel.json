@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1586431324133,
+      "title": "Biodata",
+      "body": "Nama : Padang Basudewa\nNim : 1741720001\nNo : 25 / TI-3A\n"
+    },
+    {
+      "userId": 1,
+      "id": 1586432370699,
+      "title": "Modul-8",
+      "body": "Saat Judul dimasukkan dan isi dimasukkan, kemudian diklik tombol simpan. Maka mereka akan tersimpan dalam artikel dan muncul pada bagian Daftar Artikel.\n"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
